@@ -11,7 +11,8 @@ module.exports = {
       options: {
         typeName: `WPGraphql`,
         fieldName: `wpgraphql`,
-        url: `http://rmmcwp.local/graphql`,
+        url: `http://melon.rankdepartment.com/graphql`,
+        // url: `http://rmmcwp.local/graphql`,
       },
     },
     {
